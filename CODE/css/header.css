@@ -106,7 +106,7 @@
     display: block;
 }
 
-/* ================================ logo 区域的 css  */
+/* ========= logo 区域的 css =============== */
 
 /* ----- logo */
 #logo{
@@ -134,12 +134,12 @@
     padding: 5px 6px;
 }
 
-/* ------ 搜索 */
+/*==============搜索 ===========*/
 .search{
     margin-left: 183px;
 }
 .search .search-top{
-    width: 486px;
+    width: 487px;
     height: 38px;
     border: 2px solid #2db8ad;
     overflow: hidden;
